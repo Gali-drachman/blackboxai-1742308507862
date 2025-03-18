@@ -1,0 +1,8 @@
+{
+  "app/page.js -> ./home": {
+    "id": "app/page.js -> ./home",
+    "files": [
+      "static/chunks/_app-pages-browser_src_app_home_js.js"
+    ]
+  }
+}
